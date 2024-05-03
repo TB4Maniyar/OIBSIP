@@ -1,7 +1,7 @@
 # OIBSIP-Task1 : Online Reservation System
 
 Oasis Infobyte Internship - Task 1 :-
-In Task 1 Online Reservation System in Java Programming language using Eclipse IDE are Created.
+Online Reservation System in Java Programming language using Eclipse IDE are Created.
 
 Steps Required :
 
